@@ -49,6 +49,14 @@ HOSTNAME: db
 MYSQL_PORT: 3306
 ```
 
+### Tabela não normalizada (fornecida pela Trybe)
+
+![não normalizada "Spotify Clone"](./normalizacao/non-norm.png)
+
+### Após normalização
+
+![normalizada "Spotify Clone"](./normalizacao/normalizado.png)
+
 ## Habilidades desenvolvidas
 
 1. **Consultas Condicionais:**
